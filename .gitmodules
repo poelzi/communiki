@@ -10,3 +10,6 @@
 [submodule "external/pygowave"]
 	path = external/pygowave
 	url = git://github.com/p2k/pygowave.git
+[submodule "external/dulwich"]
+	path = external/dulwich
+	url = git://git.samba.org/jelmer/dulwich.git
