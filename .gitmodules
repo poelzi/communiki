@@ -1,0 +1,12 @@
+[submodule "external/levitation"]
+	path = external/levitation
+	url = git://github.com/scy/levitation.git
+[submodule "external/django"]
+	path = external/django
+	url = git://github.com/django/django.git
+[submodule "external/wikimarkup"]
+	path = external/wikimarkup
+	url = git://github.com/dcramer/py-wikimarkup.git
+[submodule "external/pygowave"]
+	path = external/pygowave
+	url = git://github.com/p2k/pygowave.git
